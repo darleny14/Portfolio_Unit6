@@ -1,26 +1,26 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
-      background-size: cover;
+      background: url("http://fsb.zedge.net/scale.php?img=NC85LzkvNy8xLTk1NjAxNTctNDk5Nzg1Ny5qcGc&ctype=1&v=4&q=81&xs=620&ys=383&sig=b1ca6d412ec7b57ec1b8b6eac2e5cae828a0275c");
+      background-size:600px ;
       color: white;
     }
     .nav {
       color: white;
     }
     h1 {
-      font-size: 70px;
+      font-size: 100px;
     }
     img {
       margin: 40px 0px 0px 0px;
-      border: 7px solid white;
+      border: 100px purple;
       border-radius: 20px;
     }
     ul {
       padding: 10px;
-      background: rgba(0,0,0,0.5);
+      background: rgba(0,0,0,0.9);
     }
     li {
-      display: inline;
+      display:inline-block;
       padding: 0px 10px 0px 10px;
     }
     div{
@@ -30,11 +30,12 @@
     }
     @media (max-width: 500px) {
       h1 {
-        font-size: 36px;
-        padding: 5px;
+        font-size: 70px;
+        padding: 5px
+        font-family:;
       }
       li {
-        padding: 5px;
+        padding: 90px;
         display: block;
       }
     }
